@@ -1,0 +1,75 @@
+/* :root{
+    background-color: #333;
+    color: #fff;
+} */
+
+
+.card{
+    height: 500px;
+    width: 300px;
+    background-color: rgba(255, 228, 196, 0.701);
+    position: relative;
+    top: 20px;
+    left: 30%;
+    border-radius: 20px;
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+    box-shadow: 10px 10px 15px rgb(228, 97, 147);
+    
+
+}
+img{
+    position: absolute;
+    height: 107px;
+    width: 109px;
+    top: 32px;
+    left: 89px;
+    border-radius: 50px;
+    
+
+}
+h1{
+    position:absolute;
+    top: 170px;
+    left: 80px;
+    font-family: 'Tilt Prism', cursive;
+    font-size:x-large;
+    font-weight:bold;
+    text-align: center;
+
+
+   
+}
+
+p{
+    position: absolute;
+    top: 141px;
+    left: 111px;
+    font-style:normal;
+    font-weight:lighter;
+
+}
+#para{
+
+    position: absolute;
+    top: 221px;
+    left: 16px;
+    font-style:normal;
+    font-weight:lighter;
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 24px;
+
+}
+button{
+    position: absolute;
+    top: 411px;
+    left: 47px;
+    font-size: larger;
+    border-radius: 20px;
+    height: 40px;
+    width: 205px;
+    background-color:red;
+    cursor: pointer;
+
+}
